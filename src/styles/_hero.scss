@@ -6,6 +6,14 @@
     background-image: url(../images/hero_desktop.jpeg);
     text-align: center;
     background-size: cover;
+<<<<<<< HEAD
+=======
+
+    .button {
+        margin-top: 2vw;
+        margin-bottom: 8px;
+    }
+>>>>>>> 2611e3f95833b23da874981ef5ff196af455cb72
 
     &__content {
         max-width: 640px;
@@ -33,6 +41,7 @@
 
             &__combo {
                 width: calc(50% - 12px);
+<<<<<<< HEAD
 
                 img {
                     max-height: 60px;
@@ -50,6 +59,12 @@
                     margin-top: 2vw;
                     margin-bottom: 8px;
                 }
+=======
+            
+                img {
+                    max-height: 60px;
+                }
+>>>>>>> 2611e3f95833b23da874981ef5ff196af455cb72
             }
         }
     }
